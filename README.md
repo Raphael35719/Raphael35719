@@ -7,7 +7,7 @@
 <!-- ===================== TYPING SVG ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+Raphael+Labs...;Cybersecurity+Specialist+in+Training;Graphics+Designer;Video+Editor;Data+Analyst;Design+%7C+Edit+%7C+Analyze+%7C+Secure" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+Raphael+Labs...;Cybersecurity+Specialist+in+Training;Graphics+Designer;Data+Analyst;Design+%7C+Analyze+%7C+Secure" alt="Typing SVG">
 </p>
 
 ---
@@ -24,12 +24,12 @@ I'm currently developing my skills through hands-on learning, practical projects
 
 ## 🧠 What I Do
 
-| 🎨 Graphics Design        | 🎬 Video Editing        |
-| ------------------------- | ----------------------- |
-| Posters & Flyers          | Social Media Videos     |
-| Banners & Advertisements  | YouTube Content         |
-| Promotional Designs       | Video Effects & Editing |
-| Branding & Visual Content | Promotional Videos      |
+| 🎨 Graphics Design        | 
+| ------------------------- | 
+| Posters & Flyers          | 
+| Banners & Advertisements  | 
+| Promotional Designs       | 
+| Branding & Visual Content |
 
 | 📊 Data Analysis    | 🔐 Cybersecurity           |
 | ------------------- | -------------------------- |
@@ -44,11 +44,8 @@ I'm currently developing my skills through hands-on learning, practical projects
 
 ### 🎨 Design
 
-`Adobe Photoshop` `Adobe Illustrator` `Canva` `Graphic Design`
+ `Canva` `Graphic Design`
 
-### 🎬 Video
-
-`Adobe Premiere Pro` `After Effects` `Video Editing` `Motion Graphics`
 
 ### 📊 Data
 
@@ -83,8 +80,6 @@ Data Analysis
 
 * 🔐 Build strong practical cybersecurity skills
 * 📊 Develop real-world data analysis projects
-* 🎨 Create professional visual designs
-* 🎬 Improve advanced video editing techniques
 * 💻 Build and document technology projects
 * 🚀 Grow **Raphael Labs...** into a multidisciplinary digital brand
 
@@ -99,7 +94,6 @@ Data Analysis
 | 🔐 Cybersecurity Labs     | Cybersecurity | 🟡 Learning |
 | 📊 Data Analysis Projects | Data          | 🟡 Learning |
 | 🎨 Design Portfolio       | Graphics      | 🟢 Active   |
-| 🎬 Video Projects         | Video         | 🟢 Active   |
 
 ---
 
@@ -117,9 +111,9 @@ Data Analysis
 
 ## 🌐 Raphael Labs...
 
-> **Design. Edit. Analyze. Secure.**
+> **Design. Analyze. Secure.**
 
-A multidisciplinary journey combining **creative design, digital media, data, and cybersecurity**.
+A multidisciplinary journey combining **creative design, data, and cybersecurity**.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=100&section=footer">
