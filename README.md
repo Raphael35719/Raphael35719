@@ -1,120 +1,85 @@
-<!-- ===================== BANNER ===================== -->
+<!-- RAPHAEL LABS — GITHUB PROFILE README -->
 
 <p align="center">
-  <img src="./Github banner.png" alt="Raphael Labs Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Raphael35719/Raphael35719/main/Raphael%20Labs%20Cyber%20Creative%20Banner.png" alt="Raphael Labs — Design, Analyze, Secure" width="100%">
 </p>
 
-<!-- ===================== TYPING SVG ===================== -->
+<h1 align="center">Hi, I'm Raphael 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+Raphael+Labs...;Cybersecurity+Specialist+in+Training;Graphics+Designer;Data+Analyst;Design+%7C+Analyze+%7C+Secure" alt="Typing SVG">
-</p>
-
----
-
-# 👋 Hi, I'm Raphael
-
-### 🚀 Cybersecurity Specialist in Training | Creative Designer | Data Analyst
-
-I'm **Raphael**, the creator behind **Raphael Labs...** — a personal technology and creative brand focused on combining **design, technology, data, and cybersecurity**.
-
-I'm currently developing my skills through hands-on learning, practical projects, and continuous experimentation.
-
----
-
-## 🧠 What I Do
-
-| 🎨 Graphics Design        | 
-| ------------------------- | 
-| Posters & Flyers          | 
-| Banners & Advertisements  | 
-| Promotional Designs       | 
-| Branding & Visual Content |
-
-| 📊 Data Analysis    | 🔐 Cybersecurity           |
-| ------------------- | -------------------------- |
-| Data Cleaning       | Cybersecurity Fundamentals |
-| Data Visualization  | Network Security           |
-| Data Interpretation | Ethical Hacking            |
-| Reports & Insights  | Threat Analysis            |
-
----
-
-## 🛠️ Skills & Technologies
-
-### 🎨 Design
-
- `Canva` `Graphic Design`
-
-
-### 📊 Data
-
-`Excel` `Python` `Data Analysis` `Data Visualization`
-
-### 🔐 Cybersecurity
-
-`Linux` `Networking` `Cybersecurity` `Security Fundamentals` `Ethical Hacking`
-
----
-
-## 📚 Currently Learning
-
-```text
-Cybersecurity
-├── Networking
-├── Linux
-├── Security Fundamentals
-├── Ethical Hacking
-└── Threat Analysis
-
-Data Analysis
-├── Excel
-├── Python
-├── Data Cleaning
-└── Data Visualization
-```
-
----
-
-## 🎯 My Goals
-
-* 🔐 Build strong practical cybersecurity skills
-* 📊 Develop real-world data analysis projects
-* 💻 Build and document technology projects
-* 🚀 Grow **Raphael Labs...** into a multidisciplinary digital brand
-
----
-
-## 📂 Featured Projects
-
-> 🚧 Projects are currently being developed and documented.
-
-| Project                   | Area          | Status      |
-| ------------------------- | ------------- | ----------- |
-| 🔐 Cybersecurity Labs     | Cybersecurity | 🟡 Learning |
-| 📊 Data Analysis Projects | Data          | 🟡 Learning |
-| 🎨 Design Portfolio       | Graphics      | 🟢 Active   |
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raphael35719&show_icons=true&theme=tokyonight&hide_border=true" alt="Raphael's GitHub Stats">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E676&center=true&vCenter=true&width=750&height=50&lines=Welcome+to+Raphael+Labs...;Graphics+Designer+%7C+Data+Analyst;Cybersecurity+Specialist+in+Training;Design.+Analyze.+Secure." alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raphael35719&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <strong>Design. Analyze. Secure.</strong><br>
+  Turning ideas into impactful designs, meaningful insights, and safer digital experiences.
 </p>
 
 ---
 
-## 🌐 Raphael Labs...
+## 👨‍💻 About Me
 
-> **Design. Analyze. Secure.**
+I'm Raphael, the creator behind **Raphael Labs...**, a personal brand combining creative design, data analysis, and cybersecurity.
 
-A multidisciplinary journey combining **creative design, data, and cybersecurity**.
+I enjoy using creativity, analytical thinking, and technology to solve problems, communicate ideas, and contribute to a safer digital world.
+
+My interests span three key areas:
+
+- 🎨 **Graphics Design** — Creating engaging visual content for brands, businesses, and digital platforms.
+- 📊 **Data Analysis** — Working with data to uncover insights, identify patterns, and support informed decisions.
+- 🛡️ **Cybersecurity** — Developing practical security knowledge and skills to understand threats and protect digital systems.
+
+---
+
+## 🛠️ Skills & Tools
+
+### 🎨 Graphics Design
+- Visual communication and layout design
+- Posters, flyers, banners, and promotional graphics
+- Social media designs and branding
+
+**Tool:**  
+<p>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+</p>
+
+### 📊 Data Analysis
+- Data organization and cleaning
+- Data visualization and reporting
+- Insight generation and analytical thinking
+
+**Tools:**  
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Microsoft Power BI">
+</p>
+
+### 🛡️ Cybersecurity
+- Cybersecurity fundamentals
+- Network security concepts
+- Linux and networking fundamentals
+- Threat analysis and security awareness
+- Ethical hacking concepts and safe lab practice
+
+---
+
+## 🎯 My Approach
+
+- **Creativity:** Communicating ideas through purposeful design.
+- **Analysis:** Using data to turn information into insights.
+- **Security:** Applying a security-conscious mindset to digital technology.
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=100&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E676,100:003B25&height=3&section=footer" width="100%" alt="">
+</p>
+
+<p align="center">
+  <strong>RAPHAEL LABS...</strong><br>
+  <code>DESIGN · ANALYZE · SECURE</code>
+</p>
+
+<p align="center">
+  <sub>Creativity meets data. Technology meets security.</sub>
 </p>
